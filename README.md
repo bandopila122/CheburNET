@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/l0HlQ7LRalQqdWf2E/giphy.gif" width="100%" alt="FIRE" style="aspect-ratio: 16/9; object-fit: cover;" />
-</p>
+<div class="tenor-gif-embed" data-postid="17781499448112364672" data-share-method="host" data-aspect-ratio="1.76471" data-width="100%"><a href="https://tenor.com/view/mad-gif-17781499448112364672">Mad Sticker</a>from <a href="https://tenor.com/search/mad-stickers">Mad Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 # 🔥 CheburNET: Архив Цифрового Сопротивления
 
